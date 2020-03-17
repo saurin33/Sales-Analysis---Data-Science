@@ -1,4 +1,4 @@
-# Pandas-Data-Science-Tasks
+# Data-Science-Tasks
 
 Set of real world data science tasks completed using the Python Pandas library.
 
@@ -22,12 +22,4 @@ Once we have cleaned up our data a bit, we move the data exploration section. In
 - What products are most often sold together?
 - What product sold the most? Why do you think it sold the most?
 
-To answer these questions we walk through many different pandas & matplotlib methods. They include:
 
-- Concatenating multiple csvs together to create a new DataFrame (pd.concat)
-- Adding columns
-- Parsing cells as strings to make new columns (.str)
-- Using the .apply() method
-- Using groupby to perform aggregate analysis
-- Plotting bar charts and lines graphs to visualize our results
-- Labeling our graphs
